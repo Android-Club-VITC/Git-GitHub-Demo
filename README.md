@@ -1,6 +1,6 @@
 # Git-GitHub-Demo
 
-### Contributors
+## Contributors
 ### GEETESH
 ### Saptarshi
 ### sharmaji
