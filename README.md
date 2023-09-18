@@ -1,3 +1,5 @@
 # Git-GitHub-Demo
-### Contributors
+
+## Contributors
+### Pranshu Aggarwal
 ### GEETESH
